@@ -1,0 +1,8 @@
+/Users/mateussales/Desktop/MovieApi/obj/Debug/net10.0/MovieApi.csproj.AssemblyReference.cache
+/Users/mateussales/Desktop/MovieApi/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/mateussales/Desktop/MovieApi/obj/Debug/net10.0/MovieApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateussales/Desktop/MovieApi/obj/Debug/net10.0/MovieApi.AssemblyInfoInputs.cache
+/Users/mateussales/Desktop/MovieApi/obj/Debug/net10.0/MovieApi.AssemblyInfo.cs
+/Users/mateussales/Desktop/MovieApi/obj/Debug/net10.0/MovieApi.csproj.CoreCompileInputs.cache
+/Users/mateussales/Desktop/MovieApi/obj/Debug/net10.0/MovieApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/mateussales/Desktop/MovieApi/obj/Debug/net10.0/MovieApi.MvcApplicationPartsAssemblyInfo.cache
