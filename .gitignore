@@ -1,0 +1,44 @@
+## Build outputs
+bin/
+obj/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+## Logs
+*.log
+logs/
+
+## Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Local tools instaladas durante dev
+tools/
+
+## Secrets locais (usar dotnet user-secrets ou variáveis de ambiente)
+appsettings.Local.json
+secrets.json
